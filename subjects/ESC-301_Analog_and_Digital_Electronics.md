@@ -25,6 +25,7 @@
 | **Total** | **100** [cite: 2] |
 
 ## Syllabus
+
 | Unit | Content | Hours/Unit |
 |------|---------|------------|
 | 1 | Different Classes of Amplifiers (Class-A, B, AB, C), Feedback and Oscillation concepts, Phase Shift, Wein Bridge oscillators, Astable & Monostable Multivibrators, Schmitt Trigger circuits, 555 Timer. [cite: 3] | 9 [cite: 3] |
