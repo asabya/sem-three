@@ -15,6 +15,7 @@
 * Basic concepts of FETs, OP-AMPs as circuit components, and Feedback. [cite: 2]
 
 ## Examination Scheme
+
 | Component | Marks |
 |-----------|-------|
 | Mid Semester Exam | 15 [cite: 2] |

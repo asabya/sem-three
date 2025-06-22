@@ -14,6 +14,7 @@
 * Understanding of binary number systems, signed/unsigned number representation, and binary arithmetic. [cite: 28]
 
 ## Examination Scheme
+
 | Component | Marks |
 |-----------|-------|
 | Mid Semester Exam | 15 [cite: 28] |
@@ -23,6 +24,7 @@
 | **Total** | **100** [cite: 28] |
 
 ## Syllabus
+
 | Unit | Content | Hours/Unit |
 |------|---------|-----------|
 | 1 | Basic organization of a stored program computer, execution cycle (Fetch, decode, execute), instruction format, instruction sets, and addressing modes. Number systems (fixed and floating point). [cite: 29] | 8 [cite: 29] |

@@ -14,6 +14,7 @@
 * M101 & M201 (Mathematics), along with the basics of set theory. [cite: 15]
 
 ## Examination Scheme
+
 | Component | Marks |
 |-----------|-------|
 | Mid Semester Exam | 15 [cite: 15] |
@@ -23,6 +24,7 @@
 | **Total** | **100** [cite: 15] |
 
 ## Syllabus
+
 | Unit | Content | Hours/Unit |
 |------|---------|-----------|
 | 1 | Introduction to data structures, analysis of algorithms, Asymptotic Notations, Time-Space trade-off. Searching techniques: Linear and Binary Search with complexity analysis. [cite: 16] | 10 [cite: 16] |

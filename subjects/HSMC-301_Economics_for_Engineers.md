@@ -17,6 +17,7 @@
 * Mathematics. [cite: 51]
 
 ## Examination Scheme
+
 | Component | Marks |
 |-----------|-------|
 | Mid Semester Exam | 15 [cite: 51] |
@@ -26,6 +27,7 @@
 | **Total** | **100** [cite: 51] |
 
 ## Syllabus
+
 | Unit | Content | Hours/Unit |
 |------|---------|-----------|
 | 1 | Economic Decision Making, Engineering Costs & Estimation (Fixed, Variable, Marginal, Average, Sunk, Opportunity Costs), Estimating Models (Per-Unit, Segmenting, Cost Indexes, Power-Sizing, Learning Curve). [cite: 52] | 9 [cite: 52] |

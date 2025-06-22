@@ -14,6 +14,7 @@
 * Familiarity with matrices (addition, multiplication, transpose), and symmetric/skew-symmetric matrices. [cite: 38]
 
 ## Examination Scheme
+
 | Component | Marks |
 |-----------|-------|
 | Mid Semester Exam | 15 [cite: 38] |
@@ -23,6 +24,7 @@
 | **Total** | **100** [cite: 38] |
 
 ## Syllabus
+
 | Unit | Content | Hours/Unit |
 |------|---------|-----------|
 | 1 | Convergence of sequence and series, tests for convergence, power series, Taylor's series, and series for exponential, trigonometric, and logarithmic functions. [cite: 39] | 8 [cite: 39] |
